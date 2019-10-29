@@ -1,0 +1,24 @@
+https://bitbucket.org/product?&aceid=&adposition=1t1&adgroup=55499705956&campaign=1407242831&creative=377552274700&device=c&keyword=bit%20bucket&matchtype=e&network=g&placement=&ds_kids=p33211083556&ds_e=GOOGLE&ds_eid=700000001551985&ds_e1=GOOGLE&gclid=Cj0KCQjwgNXtBRC6ARIsAIPP7Rvu9ZCguNuHGm014zk5dMg20mlgJgMknPhXpg4wSeRHmUwy76pd5X0aApbMEALw_wcB&gclsrc=aw.ds
+
+https://skylab.rocketseat.com.br/journey/lives
+
+https://www.youtube.com/watch?v=2alg7MQ6_sI&feature=youtu.be
+
+
+
+
+
+
+
+Há alguma forma de delimitar áreas (circulares e com opção de cores) no mapa usando api do google + react-native, e ao clicar sobre essas áreas, aparecer um texto? @instrutores 
+
+Quero que no meu mapa mostre essas áreas e quando clicar informar uma mensagem
+
+Algo tipo :
+<Circle 
+   center:...
+   radius:...
+   onPress:...
+/>
+
+
